@@ -433,7 +433,7 @@ int main()
 	//pizza.Print();
 	//Sushi sushi;
 	//sushi.Print();
-	Rate obj = Rate(2, Date(2, 3, 4), "a", "W", 2);
+	Rate obj = Rate(Date(3, 5, 11), "NAME", "NAME", 2);
 	Date secObj = obj.Getdate();
 	/*
 	// rand() >>> целое случайное число в диапазоне 0...32767
